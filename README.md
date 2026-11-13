@@ -37,4 +37,4 @@ iitm-cybersecurity-ai-2026/
 
 The IIIT Bangalore projects were imported from their original repositories with full commit history (`git subtree`), and each README links back to the original. The IIT Madras projects are submitted reports (PDF) with a summary README per project.
 
-More from me: [GitHub profile](https://github.com/pankhurimishra81) · [Security case studies](https://github.com/pankhuri-labs/CaseStudies)
+More from me: [GitHub profile](https://github.com/pankhurimishra81) · [Portfolio and security case studies](https://pankhuri-labs.github.io/portfolio/)
